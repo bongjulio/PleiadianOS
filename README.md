@@ -1,7 +1,6 @@
 # PleiadianOS
 
-Official PleiadianOS GitHub Repository
-
+# Official PleiadianOS GitHub Repository
 # Currently under development — please stay tuned for updates...
 
 ![PleiadianOS-Preview](https://github.com/bongjulio/PleiadianOS/assets/147548121/a867b789-373d-49cf-9840-08e5653ced44)
